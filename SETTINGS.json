@@ -1,0 +1,5 @@
+{
+  "competition-data-dir": "../UPen-Seizure-detection",
+  "data-cache-dir": "data-cache",
+  "submission-dir": "submissions"
+}
