@@ -8,7 +8,7 @@ This project aims to improve computational efficiency of the winning solution by
 #### How to run the code
 1. Set the paths in the \*.json file.
 
-2. Set number of channels to be selected for each target in file nchannels.csv. To select all channels, set the number of channels larger or equal the number of channels of each target.
+2. Set number of channels to be selected for each target in file nchannels.csv. To select all channels, set the number of channels larger than or equal to the number of channels of each target.
 
 3. Run cross-validation.
 ```console
